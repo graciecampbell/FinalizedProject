@@ -1,0 +1,77 @@
+html{
+    background-color: black;
+}
+.header{
+    background-color: #8B1103;
+    color:#FFDE01;
+    width:100%;
+    height: 40px;
+    text-align: center;
+    font-size: xx-large;
+    font-family:fantasy;
+}
+.aside{
+    height: 400px;
+    width:300px;
+    background-color: #AF3B0F;
+    position: fixed;
+    top: 90px;
+    left: 20px;
+    border-width: thick;
+    border-style: double;
+    color: black;
+    padding: 2px;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 3px;
+    text-align: center;
+
+
+}
+.article{
+    height:500px;
+    width:500px;
+    background-color: #AF3B0F;
+    position: fixed;
+    top:90px;
+    right:20px;
+    border-style: double;
+    border-width: thick;
+
+}
+.navbar{
+    width: 100%;
+    height:20px;
+    background-color: #510707;
+    text-align: right;
+    color: black;
+   
+}
+
+.containerbox{
+    position: fixed;
+    background-color: black;
+    color: white;
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    border-width: thin;
+    border-style: dotted;
+    border-color: black;
+    top:70px;
+    left:20px;
+}
+
+.image {
+    background-color:#D6DFE4;
+    height: 200px;
+    width:200px;
+    margin:10px;
+    background-size: cover;
+    color: white;
+
+}
+
+.imageone{
+    background-image: url(https://fr.web.img2.acsta.net/r_1280_720/newsv7/18/08/16/14/09/30785760.jpg)
+}
