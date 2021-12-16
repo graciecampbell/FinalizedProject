@@ -16,7 +16,7 @@ html{
     width: 400px;
     height: 300px;
     position: fixed;
-    left: 20px;
+    right:300px;
     top: 160px;
     border-width:thick;
     border-style: double;
