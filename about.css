@@ -68,10 +68,10 @@ html{
 
 .image {
   background-color:#D6DFE4;
-  height: 200px;
+  height: 100px;
   width:300px;
   left:20px;
-  top:120px;
+  top:100px;
   margin:10px;
   background-size: cover;
   color: white;
