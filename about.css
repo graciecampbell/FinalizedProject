@@ -60,10 +60,10 @@ html{
 
 .containerbox{
   position: fixed;
-  top:120px;
+  top:100px;
   left:20px;
   width:300px;
-  height:200px;
+  height:100px;
 }
 
 .image {
