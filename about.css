@@ -14,17 +14,17 @@ html{
     background-color: #AF3B0F;
     color:black;
     width: 400px;
-    height: 350px;
+    height: 300px;
     position: fixed;
     right: 20px;
-    top: 140px;
+    top: 160px;
     border-width:thick;
     border-style: double;
     border-color: #8F817B;
     text-align: center;
     padding: 2px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: medium;
+    font-size: smaller;
     margin:3px;
 }
 .article{
