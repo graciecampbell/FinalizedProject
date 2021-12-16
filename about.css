@@ -14,10 +14,10 @@ html{
     background-color: #AF3B0F;
     color:black;
     width: 400px;
-    height: 320px;
+    height: 350px;
     position: fixed;
-    left:30px;
-    top:160px;
+    right: 20px;
+    top: 140px;
     border-width:thick;
     border-style: double;
     border-color: #8F817B;
