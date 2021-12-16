@@ -38,22 +38,7 @@ html{
   margin:3px;
 }
 
-.containerbox {
 
-  position: fixed;
-  left:40px;
-  top:80px;
-  height:200x;
-  width:200px;
-  background-color: black;
-  color: white;
-  font-style: oblique;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  text-align: center;
-  border-width: thin;
-  border-style: dotted;
-  border-color: black;
-}
 
 .aside{
   background-color: #AF3B0F;
@@ -73,10 +58,20 @@ html{
   margin: 3px;
 }
 
+.containerbox{
+  position: fixed;
+  top:120px;
+  left:20px;
+  width:300px;
+  height:200px;
+}
+
 .image {
   background-color:#D6DFE4;
   height: 200px;
   width:300px;
+  left:20px;
+  top:120px;
   margin:10px;
   background-size: cover;
   color: white;
