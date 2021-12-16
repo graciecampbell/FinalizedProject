@@ -11,11 +11,11 @@ html{
     font-family:fantasy;
 }
 .aside{
-    height: 300px;
+    height: 400px;
     width:300px;
     background-color: #AF3B0F;
     position: fixed;
-    top: 130px;
+    top: 140px;
     left: 20px;
     border-width: thick;
     border-style: double;
