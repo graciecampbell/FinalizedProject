@@ -13,11 +13,10 @@ html{
 .aside{
     background-color: #AF3B0F;
     color:black;
-    width: 30%;
+    width: 300px;
     height:300px;
-  padding-left: 15px;
-  margin-left: 15px;
-  float: right;
+    left:20px;
+    top:160px;
     border-width:thick;
     border-style: double;
     border-color: #8F817B;
