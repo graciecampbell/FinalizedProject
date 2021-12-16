@@ -58,29 +58,6 @@ html{
   margin: 3px;
 }
 
-.containerbox{
-  position: fixed;
-  top:120px;
-  left:100px;
-  width:300px;
-  height:200px;
-}
-
-.image {
-  background-color:#D6DFE4;
-  height: 100px;
-  width:300px;
-  margin:10px;
-  background-size: cover;
-  color: white;
-}
-
-.imagetwo {
-  background-image: url('https://static0.cbrimages.com/wordpress/wp-content/uploads/robot6/2015/10/Hajime-Isayama.jpg');
-}
-
-
-
 
 .navbar{
     width: 100%;
